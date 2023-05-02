@@ -5,7 +5,7 @@ public class DieselEngine implements Iengine {
 	public DieselEngine() {
 		
 	}
-
+     int x= 10;
 	public int startEngine() {
 		System.out.println("start diesel engine");
 		return 1;
