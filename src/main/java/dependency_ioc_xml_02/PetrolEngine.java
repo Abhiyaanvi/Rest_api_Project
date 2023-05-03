@@ -10,7 +10,7 @@ public class PetrolEngine implements Iengine {
 		
 		System.out.println("start petrol engine");
 		
-		return 1;
+		return 5;
 	}
 
 }
